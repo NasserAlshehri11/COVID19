@@ -1,8 +1,10 @@
 # COVID19
 The dataset Contains 14316 Rows and 9 Columns
 #COVID19 Daily Report
+
 #Introduction :
 A new coronavirus designated 2019-nCoV was first identified in Wuhan, the capital of China's Hubei province , People developed pneumonia without a clear cause and for which existing vaccines or treatments were not effective The virus has shown evidence of human-to-human transmission.
+
 #Data Description :
 The dataset Contains 14316 Rows and 9 Columns:
 active : Number of Active cases
